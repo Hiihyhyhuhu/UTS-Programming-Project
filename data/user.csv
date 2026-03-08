@@ -1,0 +1,8 @@
+idUser,idTheater,name,password,role
+U000001,T000001,manager1,m123,manager
+U000002,T000001,reception1,r123,receptionist
+U000003,,guest1,g123,guest
+U000004,T000002,manager2,m456,manager
+U000005,,guest2,g456,guest
+U000006,T000003,reception2,r456,receptionist
+U000007,,hii,123,guest

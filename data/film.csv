@@ -1,0 +1,11 @@
+idFilm,name,genre,duration,age,director,actor
+F000001,The Great Escape,Action,120,13,J Director,Alice
+F000002,Love & Coffee,Romance,95,0,A Director,Cathy
+F000003,Sci-Fi Odyssey,Sci-Fi,150,16,B Director,Bob
+F000004,Kids Adventure,Animation,80,0,C Director,Charlie
+F000005,The Mystery,Thriller,110,18,D Director,David
+F000006,Fantasy World,Fantasy,130,7,E Director,Eve
+F000007,Action Reloaded,Action,135,16,J Director,Alice
+F000008,Sweet Romance,Romance,100,0,A Director,Cathy
+F000009,Space Journey,Sci-Fi,160,13,B Director,Bob
+F000010,Jungle Quest,Animation,90,0,C Director,Charlie
